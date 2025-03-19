@@ -17,11 +17,11 @@ This project detects fraudulent credit card transactions using machine learning.
    ```python
    !pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn xgboost
 5.Train the models (XGBoost & Random Forest) and evaluate results.
-📊 Model Evaluation
+...📊 Model Evaluation
 XGBoost Recall: 88% (preferred for fraud detection)
 Random Forest Precision: 87% (balanced approach)
 Final Model: XGBoost (saved as fraud_detection_model.pkl)
-🛠️ Technologies Used
+.....🛠️ Technologies Used
 Python
 Google Colab
 Pandas, NumPy
